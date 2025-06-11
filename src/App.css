@@ -1,0 +1,51 @@
+.header {
+  background-color: midnightblue;
+  padding: 20px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.header a {
+  color: pink;
+  text-decoration: none;
+  font-size: 18px;
+  margin-right: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.content {
+  display: flex;
+  gap: 10px;
+}
+
+.content a {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+}
+.section{
+  background-color: royalblue;
+  padding:10px 10px;
+  
+}
+.items{
+  padding:10px 20px;
+  background-color: midnightblue;
+  width: 15%;
+    color: #FFF;
+}
+.headings{
+  display: flex;
+  gap:40px;
+  ;
+}
+
