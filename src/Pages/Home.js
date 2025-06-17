@@ -3,6 +3,7 @@ import Content from "../styledComponent/styleContent"
 // import Table from "../styledComponent/Table";
 
 function Home(){
+    console.log("111")
      return(
 <>
 <Header backgroundColor="pink" > </Header>
